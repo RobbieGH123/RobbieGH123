@@ -51,8 +51,3 @@ Complete CS fundamentals (CS50x/Odin modules on arrays, memory and functions).
 Create new and polish existing projects (Rock paper scissors project + To-Do), improve READMEs/screenshots, and learn more about Git.
 
 I will aim to update this every fortnight.
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
