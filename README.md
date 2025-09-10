@@ -1,8 +1,8 @@
-Coding journey — Weeks 1–2 (first public update)
+# Coding journey — Weeks 1–2 (first public update)
 
-This is a public log of my first two weeks learning Python and building small projects. I’m doing 4 hours/day and documenting progress so I can look back, demonstrate consistency, and improve faster.
+This is a public log of my first two weeks learning Python and building small projects. 
 
-What I have coded so far:
+## Projects Completed Weeks 0-2
 
 Currency converter — with input validation and error handling.
 
@@ -14,17 +14,19 @@ Random number generator / guesser — simple interactive program.
 
 To-Do list — CLI app with save / load / add / delete functionality. (Although I still find filing difficult)
 
-Rock-Paper-Scissors game
+Rock-Paper-Scissors game - Demonstration of functions, input handling, import, random tools.
 
 [![Rock-Paper-Scissors Demo](https://github.com/RobbieGH123/Python-Progression-Diary/blob/main/assets/rock-paper-scissors-demo.png)](https://github.com/RobbieGH123/Python-Progression-Diary/blob/main/assets/rock-paper-scissors-demo.png)
 
-These are the key skills I have learned so far:
+------------------------------------------------------
+
+## These are the key skills I have learned so far:
 
 Data types: strings, integers, floats.
 
 Collections: lists, dictionaries, sets.
 
-Flow control: for, while, if / elif / else.
+Flow control: for, while,  if/elif/else.
 
 Functions and basic modularisation.
 
@@ -36,15 +38,18 @@ Importing modules.
 
 Basic file I/O (for the To-Do save/load).
 
-Starting to use try / except for error handling (dabbled).
+Try / except for error handling (dabbled).
 
-Whilst I have learned these concepts, I obviously haven't mastered them yet... 2 weeks in.
+Note: Understood only, none yet mastered.
 
-My Current Pitfalls:
+---------------------------------------------
 
-I’m still unclear about when and why to use GitHub beyond uploading code, so here I am, testing the waters. 
+## My Current Pitfalls:
 
-My plan for Weeks 3 & 4:
+GitHub - How to navigate
+File Management
+
+## My plan for Weeks 3 & 4:
 
 Deepen Python idioms (list comprehensions, lambda/map/filter and cleaner function-based code).
 
@@ -52,6 +57,8 @@ Continue to dripfeed LeetCode practice (medium → hard) to build pattern recogn
 
 Complete CS fundamentals (CS50x/Odin modules on arrays, memory and functions).
 
-Create new and polish existing projects (Rock paper scissors project + To-Do), improve READMEs/screenshots, and learn more about Git.
+Create new and polish existing projects (Rock paper scissors project + To-Do), improve
+READMEs/screenshots, and learn more about Git.
 
-I will aim to update this every fortnight.
+---------------------------------------------
+*This README will be updated regularly as I progress through my coding journey, typically, every 14 study days.*
