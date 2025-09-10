@@ -16,8 +16,7 @@ To-Do list — CLI app with save / load / add / delete functionality. (Although 
 
 Rock-Paper-Scissors game
 
-[![Rock-Paper-Scissors Demo](./assets/Rock-paper-scissors DEMO.png)](./assets/Rock-paper-scissors DEMO.png)
-
+[![Rock-Paper-Scissors Demo](https://github.com/RobbieGH123/Python-Progression-Diary/blob/main/assets/rock-paper-scissors-demo.png)](https://github.com/RobbieGH123/Python-Progression-Diary/blob/main/assets/rock-paper-scissors-demo.png)
 
 These are the key skills I have learned so far:
 
